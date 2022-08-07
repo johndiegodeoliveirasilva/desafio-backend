@@ -139,12 +139,12 @@ en:
       deputy_not_fount: deputy not found
     table:
       name: Name
-      registre: Registre
+      register: Register
       uf: UF
       higher_expenses: Higher Expenses
     search:
       name: Parliamentary Name
-      registre: Registre
+      register: Register
       cpf: CPF
       ug: UF
       search: Search
